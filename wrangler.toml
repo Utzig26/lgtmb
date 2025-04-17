@@ -1,0 +1,9 @@
+name = "lgtm-worker"
+main = "worker.ts"
+compatibility_date = "2025-04-17"
+
+[[r2_buckets]]
+binding = 'LGTMB_BUCKET'
+bucket_name = 'LGTMB'
+preview_bucket_name = 'preview-lgtmb'
+
