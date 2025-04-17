@@ -1,4 +1,4 @@
-name = "lgtm-worker"
+name = "lgtmb-worker"
 main = "worker.ts"
 compatibility_date = "2025-04-17"
 
